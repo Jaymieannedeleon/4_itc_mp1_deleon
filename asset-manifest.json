@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/4_itc_mp1_deleon/static/css/main.10454864.css",
+    "main.js": "/4_itc_mp1_deleon/static/js/main.bc934750.js",
+    "static/js/787.20416dff.chunk.js": "/4_itc_mp1_deleon/static/js/787.20416dff.chunk.js",
+    "static/media/profile.png": "/4_itc_mp1_deleon/static/media/profile.346f903095c649cf403f.png",
+    "static/media/1.jpg": "/4_itc_mp1_deleon/static/media/1.8b2063d38d49f80ab3c4.jpg",
+    "static/media/phone-icon.png": "/4_itc_mp1_deleon/static/media/phone-icon.03f966a67f0523e03326.png",
+    "static/media/linked.png": "/4_itc_mp1_deleon/static/media/linked.36a66fed94c7295680bf.png",
+    "static/media/logo.svg": "/4_itc_mp1_deleon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/4_itc_mp1_deleon/index.html",
+    "main.10454864.css.map": "/4_itc_mp1_deleon/static/css/main.10454864.css.map",
+    "main.bc934750.js.map": "/4_itc_mp1_deleon/static/js/main.bc934750.js.map",
+    "787.20416dff.chunk.js.map": "/4_itc_mp1_deleon/static/js/787.20416dff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10454864.css",
+    "static/js/main.bc934750.js"
+  ]
+}
